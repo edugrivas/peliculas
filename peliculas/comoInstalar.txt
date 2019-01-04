@@ -1,0 +1,13 @@
+Si quieres instalar.
+
+
+1.- Descomprime los ficheros en la url base del servidor.
+
+2.- Abre ./config/config.php y modifica $localhost, $user... (El usuario debe tener permisos para crear tablas, hacer select, insert, update, delete...)
+
+3.- Crear una base de datos con el nombre que le has puesto en el config.php
+
+4.- Desde un navegador, pon la urlbase/instalar.php
+
+5.- Si todo ha ido bien, borra instalar.php
+
